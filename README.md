@@ -1,2 +1,8 @@
-# SoilMetaML
-a reproducible bioinformatics and machine learning pipeline for soil microbiome analysis using 16S rRNA sequencing data
+# About	
+# Research question	
+# Dataset	
+# Pipeline	
+# Machine Learning	
+# Results	
+# Reproducibility	
+# References	
